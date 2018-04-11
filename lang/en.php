@@ -1,0 +1,32 @@
+<?php
+$lang['linklist']['name']      = "Linklist";
+$lang['linklist']['intro']     = "Module to create a linklist with userentries.";
+$lang['linklist']['author']    = 'Bas Steelooper (rewrite of the module from divoma.media to 4.7)';
+$lang['linklist']['main']      = "Linklist module";
+$lang['linklist']['pagessite'] = "Create new link";
+$lang['linklist']['adminpage'] = "Activate Links";
+$lang['linklist']['newlink']   = "Create New Link";
+$lang['linklist']['title']     = "Sitetitle";
+$lang['linklist']['link']      = "Link to page";
+$lang['linklist']['descr']     = "Sitedescription";
+$lang['linklist']['send']      = "Send Link";
+$lang['linklist']['fillall']   = "You didn't fill all fields.";
+$lang['linklist']['nohtml']    = "HTML-Tags in entries are not allowed";
+$lang['linklist']['activate']  = "Activate link";
+$lang['linklist']['delete']    = "Delete Link";
+$lang['linklist']['deleted']   = " was deleted from system.";
+$lang['linklist']['backlink']  = "Back to main page";
+$lang['linklist']['wsend']     = "Your Link was send to the administration console.";
+$lang['linklist']['msubject']  = "New Link";
+$lang['linklist']['mail']      = "A New link was send to your page:";
+$lang['linklist']['mail_tit']  = "Sitetitle:";
+$lang['linklist']['mail_dis']  = "Description:";
+$lang['linklist']['mail_lnk']  = "Sitelink:";
+$lang['linklist']['exhead']    = "Disclaimer";
+$lang['linklist']['exredir']   = "You will be redirected to";
+$lang['linklist']['adminset']  = "Settings for your linklist";
+$lang['linklist']['pageis']    = "Disclaimer Page";
+$lang['linklist']['settings']  = "Settings";
+$lang['linklist']['save']      = "Save Settings";
+$lang['linklist']['distext']   = "Enter your Disclaimertext here"
+?>
